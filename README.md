@@ -1,6 +1,8 @@
 # gcmr
 Fitting Gaussian Copula Marginal Regression Models by Maximum (Simulated) Likelihood Use gcmr With (In) R Software
 
+https://www.youtube.com/watch?v=xHEdT1TIQDo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
